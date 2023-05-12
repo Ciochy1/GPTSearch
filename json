@@ -1,0 +1,14 @@
+{
+  "name": "ChatGPT Search",
+  "version": "1.0",
+  "description": "Search for answers using ChatGPT",
+  "manifest_version": 2,
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_title": "ChatGPT Search",
+    "default_popup": "popup.html"
+  }
+}
