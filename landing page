@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ChatGPT Chrome Extension</title>
+</head>
+<body>
+    <h1>ChatGPT Chrome Extension</h1>
+    <p>Click the button below to download and install the ChatGPT Chrome extension:</p>
+    <a href="https://example.com/chatgpt-extension.zip" download>
+        <button>Download Extension</button>
+    </a>
+</body>
+</html>
